@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.column {
+  width: 300px;
+  padding: 20px;
+  border-right: 5px solid green;
+}
+
+.column:last-child {
+  border-right: none;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3,
+h4,
+p {
+  margin: 10px 0;
+}
