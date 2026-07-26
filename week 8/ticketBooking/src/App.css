@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 30px;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th {
+  background: #0078d4;
+  color: white;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 15px;
+  font-size: 16px;
+  cursor: pointer;
+}

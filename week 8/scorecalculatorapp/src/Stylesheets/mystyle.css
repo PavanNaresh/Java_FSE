@@ -1,0 +1,20 @@
+.container {
+    width:400px;
+    margin:50px auto;
+    padding:20px;
+    text-align:center;
+    background-color:lightblue;
+    border-radius:10px;
+}
+
+h1 {
+    color:darkblue;
+}
+
+h2 {
+    color:green;
+}
+
+p {
+    font-size:18px;
+}
